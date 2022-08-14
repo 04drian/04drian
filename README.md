@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, eu sou o Adrian 🐱‍👤
 
-<!--
-**04drian/04drian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats ](https://github-readme-stats.vercel.app/api?username=04drian&show_icons=true&theme=dark)
+
+
+
+![Estudos](https://img.shields.io/badge/Estudando-000080?sty)
+
+[![icon's](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+
+ ![Imagem](https://lh5.googleusercontent.com/8gTlohm03X3wcic_Blo9WmhxBB2yXdlOWHaxkxvy5Ppjhr3vivJkzK873qI3AvFBxvgxvA4cL1ygolYQF6iQlbdLSIXUDDeiO7PdDGOqqovadjaIOaj9ats4utxZyaAO13oHbXhb)     
+          
