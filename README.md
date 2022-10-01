@@ -1,14 +1,15 @@
-### Seja Bem-vindo 🐱‍👤
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Adrian+Palma;I'm+16+years+old;I'm+from+Brasil,SP;I+study+Python;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=04drian&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adrian Palma github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=04drian&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 
 
-![Github stats ](https://github-readme-stats.vercel.app/api?username=04drian&show_icons=true&theme=dark)
+![Estudos](https://img.shields.io/badge/Main_Skills:-009fbf?sty)
 
 
 
-![Estudos](https://img.shields.io/badge/Estudando-000080?sty)
-
-[![icon's](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-
-![Imagem](https://lh5.googleusercontent.com/8gTlohm03X3wcic_Blo9WmhxBB2yXdlOWHaxkxvy5Ppjhr3vivJkzK873qI3AvFBxvgxvA4cL1ygolYQF6iQlbdLSIXUDDeiO7PdDGOqqovadjaIOaj9ats4utxZyaAO13oHbXhb)     
-
+[![icon's](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=00bfbf&)](https://www.python.org/)
